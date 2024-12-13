@@ -17,7 +17,7 @@ class HomePage extends StatelessWidget {
         surfaceTintColor: kDarkGreen,
         // centerTitle: true,
         title: const Text(
-          'Shop Name',
+          'Badge Trail',
           style: TextStyle(
             fontWeight: FontWeight.bold,
             fontSize: 25,
